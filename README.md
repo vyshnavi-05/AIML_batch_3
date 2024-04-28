@@ -7,3 +7,4 @@
 6.[lab6](https://github.com/vyshnavi-05/AIML_batch_3/blob/main/assignment_6.ipynb)
 7.[lab7](https://github.com/vyshnavi-05/AIML_batch_3/blob/main/assignment_7.ipynb)
 8.[lab 8](https://github.com/vyshnavi-05/AIML_batch_3/blob/main/assignment_8.ipynb)
+11.[article](https://github.com/vyshnavi-05/AIML_batch_3/blob/main/project_article.ipynb)
