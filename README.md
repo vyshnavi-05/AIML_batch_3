@@ -9,4 +9,4 @@
 8.[lab 8](https://github.com/vyshnavi-05/AIML_batch_3/blob/main/assignment_8.ipynb)
 9.[lab 9](https://github.com/vyshnavi-05/AIML_batch_3/blob/main/Assignment_09.ipynb)
 10.[lab 10](https://github.com/vyshnavi-05/AIML_batch_3/blob/main/Assignment_10.ipynb)
-11.]project]()
+11.[project](https://github.com/vyshnavi-05/AIML_batch_3/blob/main/AIML.ipynb)
